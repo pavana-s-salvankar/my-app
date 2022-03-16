@@ -3,7 +3,7 @@ const ProductDetail = () => {
   const handleClick = () => {
     console.log('succesfully placed order');
     //router.push('/product');
-    router.replace(`/blog`);
+    router.push(`/blog`);
   };
   const router = useRouter();
   const productid = router.query.productid;
