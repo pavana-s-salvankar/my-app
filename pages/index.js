@@ -26,6 +26,9 @@ const Home = () => {
       <Link href='/items'>
         <a>Items </a>
       </Link>
+      <Link href='/news'>
+        <a>News </a>
+      </Link>
     </>
   );
 };
