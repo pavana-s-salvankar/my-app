@@ -23,6 +23,9 @@ const Home = () => {
       <Link href='/posts'>
         <a>Posts </a>
       </Link>
+      <Link href='/items'>
+        <a>Items </a>
+      </Link>
     </>
   );
 };
