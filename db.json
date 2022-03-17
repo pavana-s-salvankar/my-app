@@ -1,4 +1,5 @@
 {
+  "dashboard": { "posts": 12, "followers": 32, "following": 44 },
   "items": [
     { "id": 1, "title": "Item 1", "price": 9000, "description": "Description 1" },
     { "id": 2, "title": "Item 7", "price": 2000, "description": "Description 2" },
